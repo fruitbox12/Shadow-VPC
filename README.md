@@ -1,6 +1,6 @@
-# Capability Providers
+# VPC Core
 
-This repository contains capability providers for wasmCloud. The providers
+This repository contains core VPC Services for Shadow OS Cloud. The providers
 in the root level of this repository are _only_ compatible with version `0.50`
 and _newer_ of wasmCloud. All of the pre-existing capability providers compatible
 with `0.18` (aka "pre-OTP") or earlier can be found in the [pre-otp](./pre-otp) folder.
